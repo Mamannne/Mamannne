@@ -1,8 +1,13 @@
 <h1 align="center"> 👋 Hi I'm Aymane.</h1>
 
+<p>
+
 🎓 I’m currently studying computer science and applied maths at [Télécom paris](https://www.telecom-paris.fr/).
 🎲 Specializing in signal processing and mathematics and statistics applied to data analysis, machine learning and computer vision. 
 🧪 On my git you might find some lab work for school, class projects or some personal ones.
+  
+</p>
+
 
   
 ---
