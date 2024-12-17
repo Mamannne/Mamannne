@@ -22,6 +22,11 @@
 - **Description**: Implemented a neural network from scratch to recognize digits on the MNIST database.
 
 
+### 🤖 **[Music suggestion bot](https://github.com/Mamannne/Suggestion_Musicale)**
+- **Description**: Application that can suggest music only with some given lyrics.
+- **Main tools**: Using a Genius API and a Normalized Compression Distance to get a match between the given text and our database.
+
+
 
 
 <!---
