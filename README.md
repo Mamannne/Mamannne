@@ -2,9 +2,9 @@
 
 <p>
 
-🎓 I’m currently studying computer science and applied maths at [Télécom paris](https://www.telecom-paris.fr/).
-🎲 Specializing in signal processing and mathematics and statistics applied to data analysis, machine learning and computer vision. 
-🧪 On my git you might find some lab work for school, class projects or some personal ones.
+  🎓 I’m currently studying computer science and applied maths at [Télécom paris](https://www.telecom-paris.fr/). <br>
+  🎲 Specializing in signal processing and mathematics and statistics applied to data analysis, machine learning and computer vision. <br>
+  🧪 On my git you might find some lab work for school, class projects or some personal ones.
   
 </p>
 
