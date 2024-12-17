@@ -11,13 +11,10 @@
 
   
 ---
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamannne&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamannne&layout=compact&hide_border=true&theme=github_dark" alt="Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamannne&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Mamannne's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mamannne&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mamannne's Stats" />
+</div>
 
 ## 📊 **Notable Projects**
 
